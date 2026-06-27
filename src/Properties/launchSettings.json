@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RealTabIndenter": {
+      "commandName": "Project",
+      "commandLineArgs": "/log"
+    }
+  }
+}
